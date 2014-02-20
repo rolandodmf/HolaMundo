@@ -28,7 +28,8 @@ public class HolaMundo {
         System.out.println("Trabajaremos hoy en nuestros proyectos de forma colaborativa");
         //
         System.out.println("Hola Mundo, soy Alex");
-        System.out.println("Me parece genial!!!");       
+        System.out.println("Me parece genial!!!");
+        System.out.println("Rolando Mendoza: Siguiendo la capacitacion virtual.");
 
     }
     
